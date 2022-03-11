@@ -57,7 +57,7 @@ def impl_detector(proxyAddres):
 
 
 
-# Read Proxy Address from a file.(Do not forget to craate file a)
+# Read Proxy Address from a file.(Do not forget to create file a in your desktop)
 f=open('C:\\Users\\sajad\\Desktop\\a.txt')
 A= f.readlines()
 
